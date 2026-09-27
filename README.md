@@ -1,4 +1,4 @@
-# 🧠 QuizMaster — Jeu de Quiz Interactif
+QuizMaster — Jeu de Quiz Interactif
 
 > Application full-stack de quiz interactif avec gestion complète via un panel administrateur.
 
